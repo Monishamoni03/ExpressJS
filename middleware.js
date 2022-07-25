@@ -16,4 +16,4 @@ app.use('/', function(req, res, next) {
     console.log('Middleware ended');
 });
 
-app.listen(8002);
+app.listen(8000);
